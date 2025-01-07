@@ -1,0 +1,6 @@
+Peak 1: A = 6254.84, Mean = 16.68, Std_err_to_Mean = 0.0382, Sigma = 0.36, FWHM = 0.84, Resolution = 0.05
+Peak 2: A = 7592.78, Mean = 17.23, Std_err_to_Mean = 0.0290, Sigma = 0.37, FWHM = 0.86, Resolution = 0.05
+Peak 3: A = 14849.80, Mean = 19.82, Std_err_to_Mean = 0.0215, Sigma = 0.50, FWHM = 1.18, Resolution = 0.06
+Peak 4: A = 18598.59, Mean = 20.37, Std_err_to_Mean = 0.0163, Sigma = 0.37, FWHM = 0.87, Resolution = 0.04
+Peak 5: A = 16412.07, Mean = 23.75, Std_err_to_Mean = 0.7866, Sigma = 1.29, FWHM = 3.04, Resolution = 0.13
+Peak 6: A = 14510.88, Mean = 23.44, Std_err_to_Mean = 0.0380, Sigma = 0.54, FWHM = 1.26, Resolution = 0.05

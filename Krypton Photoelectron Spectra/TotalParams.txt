@@ -1,0 +1,63 @@
+Kr_PES_0
+SingleGaussianFit:
+Peak 1: A = 4705.97, Mean = 16.54, Std_err_to_Mean = 0.0100, Sigma = 0.23, FWHM = 0.54, Resolution = 0.03
+Peak 2: A = 6114.58, Mean = 17.11, Std_err_to_Mean = 0.0120, Sigma = 0.21, FWHM = 0.49, Resolution = 0.03
+Peak 3: A = 12292.18, Mean = 19.73, Std_err_to_Mean = 0.0301, Sigma = 0.49, FWHM = 1.16, Resolution = 0.06
+Peak 4: A = 16405.28, Mean = 20.26, Std_err_to_Mean = 0.0229, Sigma = 0.35, FWHM = 0.82, Resolution = 0.04
+Peak 5: A = 10566.83, Mean = 22.81, Std_err_to_Mean = 0.0327, Sigma = 0.58, FWHM = 1.36, Resolution = 0.06
+Peak 6: A = 11970.96, Mean = 23.38, Std_err_to_Mean = 0.0224, Sigma = 0.42, FWHM = 0.98, Resolution = 0.04
+
+Kr_PES_1
+SingleGaussianFit:
+Peak 1: A = 9834.40, Mean = 16.51, Std_err_to_Mean = 0.0174, Sigma = 0.49, FWHM = 1.14, Resolution = 0.07
+Peak 2: A = 10645.77, Mean = 17.18, Std_err_to_Mean = 0.0145, Sigma = 0.40, FWHM = 0.93, Resolution = 0.05
+Peak 3: A = 15391.52, Mean = 19.92, Std_err_to_Mean = 0.0810, Sigma = 0.70, FWHM = 1.64, Resolution = 0.08
+Peak 4: A = 18422.65, Mean = 20.31, Std_err_to_Mean = 0.0195, Sigma = 0.40, FWHM = 0.95, Resolution = 0.05
+Peak 5: A = 16721.35, Mean = 23.28, Std_err_to_Mean = 0.2002, Sigma = 0.88, FWHM = 2.08, Resolution = 0.09
+Peak 6: A = 16594.20, Mean = 23.39, Std_err_to_Mean = 0.0279, Sigma = 0.47, FWHM = 1.11, Resolution = 0.05
+
+Kr_PES_2
+Single Gaussian Fit Peaks info:
+Peak 1: A = 9887.85, Mean = 16.99, Std_err_to_Mean = 0.4973, Sigma = 1.18, FWHM = 2.78, Resolution = 0.16
+Peak 2: A = 9955.11, Mean = 17.19, Std_err_to_Mean = 0.0309, Sigma = 0.52, FWHM = 1.23, Resolution = 0.07
+Peak 3: A = 15494.68, Mean = 19.97, Std_err_to_Mean = 0.1676, Sigma = 0.78, FWHM = 1.84, Resolution = 0.09
+Peak 4: A = 18468.20, Mean = 20.35, Std_err_to_Mean = 0.0188, Sigma = 0.39, FWHM = 0.92, Resolution = 0.05
+Peak 5: A = 15071.33, Mean = 22.98, Std_err_to_Mean = 0.0836, Sigma = 0.65, FWHM = 1.53, Resolution = 0.07
+Peak 6: A = 17189.09, Mean = 23.42, Std_err_to_Mean = 0.0310, Sigma = 0.44, FWHM = 1.05, Resolution = 0.04
+
+Kr_PES_3
+Single Gaussian Fit Peaks info:
+Peak 1: A = 6254.84, Mean = 16.68, Std_err_to_Mean = 0.0382, Sigma = 0.36, FWHM = 0.84, Resolution = 0.05
+Peak 2: A = 7592.78, Mean = 17.23, Std_err_to_Mean = 0.0290, Sigma = 0.37, FWHM = 0.86, Resolution = 0.05
+Peak 3: A = 14849.80, Mean = 19.82, Std_err_to_Mean = 0.0215, Sigma = 0.50, FWHM = 1.18, Resolution = 0.06
+Peak 4: A = 18598.59, Mean = 20.37, Std_err_to_Mean = 0.0163, Sigma = 0.37, FWHM = 0.87, Resolution = 0.04
+Peak 5: A = 16412.07, Mean = 23.75, Std_err_to_Mean = 0.7866, Sigma = 1.29, FWHM = 3.04, Resolution = 0.13
+Peak 6: A = 14510.88, Mean = 23.44, Std_err_to_Mean = 0.0380, Sigma = 0.54, FWHM = 1.26, Resolution = 0.05
+
+Kr_PES_4
+Single Gaussian Fit Peaks info:
+Peak 1: A = 19554.04, Mean = 16.60, Std_err_to_Mean = 0.0079, Sigma = 0.32, FWHM = 0.75, Resolution = 0.05
+Peak 2: A = 24786.81, Mean = 17.18, Std_err_to_Mean = 0.0141, Sigma = 0.29, FWHM = 0.68, Resolution = 0.04
+Peak 3: A = 51447.42, Mean = 19.83, Std_err_to_Mean = 0.0291, Sigma = 0.52, FWHM = 1.22, Resolution = 0.06
+Peak 4: A = 66606.89, Mean = 20.33, Std_err_to_Mean = 0.0143, Sigma = 0.36, FWHM = 0.85, Resolution = 0.04
+Peak 5: A = 52703.98, Mean = 23.05, Std_err_to_Mean = 0.0858, Sigma = 0.71, FWHM = 1.67, Resolution = 0.07
+Peak 6: A = 58481.97, Mean = 23.41, Std_err_to_Mean = 0.0285, Sigma = 0.46, FWHM = 1.09, Resolution = 0.05
+
+#intervals of Gaussian fitting for the 6 peaks in Kr_PES_i with i in range(0,4)
+peak_#,min,max;
+peak_1,14.5,16.8
+peak_2,16.9,18.2
+peak_3,18.2,19.9
+peak_4,20.0,21.0
+peak_5,21.2,22.8
+peak_6,22.8,27.0
+
+Ec(electron)= x-axis
+
+E harmonic =/ E cinetique
+
+E= no du harmonique*E_Laser
+11,13,15
+
+Manipulation: schema/explication
+Results:
